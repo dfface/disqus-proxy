@@ -2,6 +2,6 @@
   "version": 2,
   "routes": [
     { "src": "/", "dest": "/index.html" },
-    { "src": "/(.*)", "dest": "https://cdn.jsdelivr.net" }
+    { "src": "/(.*)", "dest": "https://disqus.com/api" }
     ]
 }
